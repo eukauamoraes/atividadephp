@@ -31,7 +31,12 @@ $Pais = "Brasil";
 echo "Eu moro em $cidade,$Pais"
 
 ?>
+<?php  
+//exercico 5 
+define("TAXA_JUROS", 0,005)
 
+
+?>
 
 
 
